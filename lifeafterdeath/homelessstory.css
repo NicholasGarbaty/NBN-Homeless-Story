@@ -65,3 +65,7 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
 #slide-intro16 {
     background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/uploads/2015/05/25/IMG_6690.jpg");
 }
+
+#audiostory {
+    margin-top: 60%;
+}
