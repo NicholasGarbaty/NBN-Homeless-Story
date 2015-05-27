@@ -69,3 +69,7 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
 #audiostory {
     margin-top: 60%;
 }
+
+.arrow {
+    height:97px;
+}
