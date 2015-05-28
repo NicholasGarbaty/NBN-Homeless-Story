@@ -73,8 +73,14 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
 .arrow {
     height:97px;
 }
+#headline {
+    font-family: 'Hind', sans-serif;
+    font-size: 5.5em;
+    text-align: center;
+}
 #subhead {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 #subtext {
     font-family: 'Roboto', sans-serif;
@@ -105,7 +111,14 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
     max-height: 1200px;
     font-size: 1.2em;
 }
+.btn.btn-go {
+    font-family: 'Yanone Kafeesatz', sans-serif;
+    font-size: 1.5em;
+}
 #endplate {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Hind', sans-serif;
     font-weight: 500;
+}
+#creds{
+    font-family: 'Oswald', sans-serif;
 }
