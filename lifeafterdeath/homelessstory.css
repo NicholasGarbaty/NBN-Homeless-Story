@@ -73,3 +73,39 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
 .arrow {
     height:97px;
 }
+#subhead {
+    font-family: 'Roboto', sans-serif;
+}
+#subtext {
+    font-family: 'Roboto', sans-serif;
+    max-width: 1200px;
+    font-size: 1.2em;
+}
+#subtexta {
+    font-family: 'Roboto', sans-serif;
+    vertical-align: right;
+    margin-left: 80px;
+    margin-top: -300px;
+    max-height: 1200px;
+    font-size: 1.2em;
+}
+#subtextb {
+    font-family: 'Roboto', sans-serif;
+    vertical-align: right;
+    margin-right: 70px;
+    margin-top: -500px;
+    max-height: 1200px;
+    font-size: 1.2em;
+}
+#subtextz {
+    font-family: 'Roboto', sans-serif;
+    vertical-align: right;
+    margin-right: 70px;
+    margin-top: -300px;
+    max-height: 1200px;
+    font-size: 1.2em;
+}
+#endplate {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
