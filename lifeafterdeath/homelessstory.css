@@ -99,7 +99,6 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
     font-family: 'Roboto', sans-serif;
     vertical-align: right;
     margin-right: 70px;
-    margin-top: -500px;
     max-height: 1200px;
     font-size: 1.2em;
 }
@@ -121,4 +120,8 @@ background-image: url("http://media.northbynorthwestern.com.s3.amazonaws.com/upl
 }
 #creds{
     font-family: 'Oswald', sans-serif;
+}
+
+.mejs-container {
+    padding-top:10px;
 }
